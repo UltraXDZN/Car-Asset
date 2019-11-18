@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: e441ab8e475f11e49be2270e72273422
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: alfa
+    100002: //RootNode
+    100004: back_l
+    100006: back_r
+    100008: Circle
+    100010: Circle.001
+    100012: Circle.002
+    100014: Circle.003
+    100016: Circle.004
+    100018: Circle.007
+    100020: Circle.010
+    100022: Cube.001
+    100024: Cube.002
+    100026: Cube.003
+    100028: Cylinder
+    100030: Cylinder.001
+    100032: Cylinder.002
+    100034: Cylinder.003
+    100036: Cylinder.004
+    100038: Cylinder.005
+    100040: Cylinder.008
+    100042: Cylinder.009
+    100044: Cylinder.011
+    100046: Cylinder.012
+    100048: front_l
+    100050: front_r
+    100052: lp
+    100054: lp.001
+    400000: alfa
+    400002: //RootNode
+    400004: back_l
+    400006: back_r
+    400008: Circle
+    400010: Circle.001
+    400012: Circle.002
+    400014: Circle.003
+    400016: Circle.004
+    400018: Circle.007
+    400020: Circle.010
+    400022: Cube.001
+    400024: Cube.002
+    400026: Cube.003
+    400028: Cylinder
+    400030: Cylinder.001
+    400032: Cylinder.002
+    400034: Cylinder.003
+    400036: Cylinder.004
+    400038: Cylinder.005
+    400040: Cylinder.008
+    400042: Cylinder.009
+    400044: Cylinder.011
+    400046: Cylinder.012
+    400048: front_l
+    400050: front_r
+    400052: lp
+    400054: lp.001
+    2100000: ornament
+    2100002: light.001
+    2100004: "le\u0107a"
+    2100006: light
+    2100008: osovina
+    2100010: volan1
+    2100012: volan
+    2100014: cijev
+    2100016: "volan_\u0161ipke"
+    2100018: pedala
+    2100020: truba_pipe
+    2100022: truba
+    2100024: truba_rubber
+    2100026: truba_zakacka
+    2100028: pedala.001
+    2100030: rucna bottom part
+    2100032: rucna top part
+    2100034: rucna_midlle part
+    2100036: seats_alfa
+    2100038: handle_alfa
+    2100040: doors
+    2100042: "\u0161arniri_alfa"
+    2100044: kotaac inner_
+    2100046: "\u0161ipke.001"
+    2100048: guma
+    2100050: body
+    2100052: floor
+    2100054: front panel
+    2100056: glass
+    2100058: frontpanel1
+    2100060: back
+    2100062: wood.001
+    2100064: metal_windshild
+    2300000: alfa
+    2300002: back_l
+    2300004: back_r
+    2300006: Circle
+    2300008: Circle.001
+    2300010: Circle.002
+    2300012: Circle.003
+    2300014: Circle.004
+    2300016: Circle.007
+    2300018: Circle.010
+    2300020: Cube.001
+    2300022: Cube.002
+    2300024: Cube.003
+    2300026: Cylinder
+    2300028: Cylinder.001
+    2300030: Cylinder.002
+    2300032: Cylinder.003
+    2300034: Cylinder.004
+    2300036: Cylinder.005
+    2300038: Cylinder.008
+    2300040: Cylinder.009
+    2300042: Cylinder.011
+    2300044: Cylinder.012
+    2300046: front_l
+    2300048: front_r
+    2300050: lp
+    2300052: lp.001
+    3300000: alfa
+    3300002: back_l
+    3300004: back_r
+    3300006: Circle
+    3300008: Circle.001
+    3300010: Circle.002
+    3300012: Circle.003
+    3300014: Circle.004
+    3300016: Circle.007
+    3300018: Circle.010
+    3300020: Cube.001
+    3300022: Cube.002
+    3300024: Cube.003
+    3300026: Cylinder
+    3300028: Cylinder.001
+    3300030: Cylinder.002
+    3300032: Cylinder.003
+    3300034: Cylinder.004
+    3300036: Cylinder.005
+    3300038: Cylinder.008
+    3300040: Cylinder.009
+    3300042: Cylinder.011
+    3300044: Cylinder.012
+    3300046: front_l
+    3300048: front_r
+    3300050: lp
+    3300052: lp.001
+    4300000: Cylinder
+    4300002: Circle.001
+    4300004: Cylinder.001
+    4300006: Cylinder.002
+    4300008: Cube.002
+    4300010: Cylinder.003
+    4300012: Circle
+    4300014: Circle.002
+    4300016: Circle.003
+    4300018: Cube.003
+    4300020: lp
+    4300022: Cylinder.004
+    4300024: Cylinder.011
+    4300026: Cylinder.008
+    4300028: Cylinder.009
+    4300030: Cylinder.012
+    4300032: Circle.004
+    4300034: front_r
+    4300036: alfa
+    4300038: lp.001
+    4300040: Cylinder.005
+    4300042: Cube.001
+    4300044: Circle.007
+    4300046: back_r
+    4300048: back_l
+    4300050: Circle.010
+    4300052: front_l
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
